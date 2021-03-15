@@ -46,7 +46,7 @@
     "dualMemoryCard":false,
     "dustAndWaterResistant":true,
     "images":[
-    "/c24.jpg","/c21.jpg","/c22.jpg","/c23.jpg"
+    "c24.jpg","c21.jpg","c22.jpg","c23.jpg"
     ],
     "comments":[
     {
@@ -76,7 +76,7 @@
     "dualMemoryCard":false,
     "dustAndWaterResistant":true,
     "images":[
-    "/c31.jpg","/c32.jpg","/c33.jpg","/c34.jpg"
+    "c31.jpg","c32.jpg","c33.jpg","c34.jpg"
     ],
     "comments":[
     {
@@ -106,7 +106,7 @@
     "dualMemoryCard":false,
     "dustAndWaterResistant":true,
     "images":[
-        "/c42.jpg","/c41.jpg","/c43.jpg","/c44.jpg"
+        "c42.jpg","c41.jpg","c43.jpg","c44.jpg"
     ],
     "comments":[
     {
@@ -129,7 +129,7 @@
     "isoRange":"100-25600 sensitivity range",
     "resolution":"1080p Full HD",
     "images":[
-        "/c52.jpg","/c51.jpg","/c53.jpg","/c54.jpg"
+        "c52.jpg","c51.jpg","c53.jpg","c54.jpg"
     ],
     "Comments":[
      {
@@ -154,7 +154,7 @@
     "dualMemoryCard":false,
     "dustAndWaterResistant":true,
     "images":[
-        "/c61.jpg","/c62.jpg","/c63.jpg","/c64.jpg"
+        "c61.jpg","c62.jpg","c63.jpg","c64.jpg"
     ],
     "comments":[
     {
